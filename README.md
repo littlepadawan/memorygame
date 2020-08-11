@@ -8,7 +8,7 @@
 
 ## Motivation
 
-This memory game is the third project in the Front End Web Development nanodegree at Udacity. I was given some starter code (HTML and CSS) displaying a static version of the game and my task has been to convert that to an ineractive one. To acheive this the main part of the project has been revolved around building the JavaScript file, but I have also modified the HTMLand CSS files to some extent.
+This memory game is the third project in the Front End Web Development nanodegree at Udacity. I was given some starter code (HTML and CSS) displaying a static version of the game and my task has been to convert that to an interactive one. To acheive this, the main part of the project has been revolved around building the JavaScript file, but I have also modified the HTM Land CSS files to some extent.
 
 ## How to use?
 
